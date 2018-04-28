@@ -1,0 +1,30 @@
+{
+  "name": "protractor-custom-attribute-plugin",
+  "version": "0.0.1",
+  "description": "A plugin for Protractor (https://www.protractortest.org) to allow locating elements with a custom attribute.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/haydenhall/protractor-custom-attribute-plugin.git"
+  },
+  "keywords": [
+    "protractor",
+    "aurelia",
+    "plugin",
+    "angular",
+    "custom",
+    "attribute"
+  ],
+  "author": "Hayden Hall",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/haydenhall/protractor-custom-attribute-plugin/issues"
+  },
+  "homepage": "https://github.com/haydenhall/protractor-custom-attribute-plugin#readme",
+  "dependencies": {
+    "protractor": "^5.3.1"
+  },
+  "peerDependencies": {
+    "protractor": "^5.3.1"
+  }
+}
